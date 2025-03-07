@@ -32,7 +32,7 @@ Um programa de otimização do Windows focado em melhorar o desempenho para jogo
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/tutuh-optimizer.git
+   git clone https://github.com/Arthurrsm/tutuh-optimizer.git
 
 2. Instale as dependências:
    ```bash
