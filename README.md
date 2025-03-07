@@ -39,6 +39,6 @@ Um programa de otimização do Windows focado em melhorar o desempenho para jogo
    pip install customtkinter psutil
 
 3. Execute o programa:
-  ```bash
+   ```bash
    python tutuh_optimizer.py
    
