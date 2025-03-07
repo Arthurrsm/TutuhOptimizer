@@ -1,5 +1,6 @@
 # TutuhOptimizer
-Um programa de otimização do Windows focado em melhorar o desempenho para jogos. Desenvolvido em Python com interface gráfica moderna usando `customtkinter`.
+
+Um programa de otimização do Windows focado em melhorar o desempenho para jogos e uso geral. Desenvolvido em Python com interface gráfica moderna usando `customtkinter`.
 
 ---
 
@@ -31,4 +32,13 @@ Um programa de otimização do Windows focado em melhorar o desempenho para jogo
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/otimizador-windows.git
+   git clone https://github.com/seu-usuario/tutuh-optimizer.git
+
+2. Instale as dependências:
+   ```bash
+   pip install customtkinter psutil
+
+3. Execute o programa:
+  ```bash
+   python tutuh_optimizer.py
+   
